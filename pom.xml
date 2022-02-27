@@ -11,7 +11,7 @@
 	<groupId>com.sip</groupId>
 	<artifactId>amsdata1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>War</packaging>
+	<packaging> war</packaging>
 	<name>amsdata1</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
